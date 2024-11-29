@@ -23,8 +23,7 @@ const productScheme = new mongoose.Schema({
     },
     company: {
         type: String,
-            values: ["apple", "samsung", "dell", "mi", "lenovo", "realme"],
-            required: true
+        required: true
     }
 })
 

@@ -1,14 +1,20 @@
 [
     {
-        "name" : "iphone 15",
+        "name" : "iphone",
         "price" : 350,
-        "feature" : true,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone15",
+        "price" : 350,
+        "featured" : true,
         "company" : "apple"
     },
     {
         "name" : "iphone10",
         "price" : 320,
-        "feature" : true,
+        "featured" : true,
         "company" : "apple"
     },
     {
@@ -19,55 +25,37 @@
     {
         "name" : "samsung A10",
         "price" : 200,
-        "feature" : true,
+        "featured" : false,
         "company" : "samsung"
     },
     {
         "name" : "realme C25s",
         "price" : 100,
-        "feature" : true,
+        "featured" : true,
         "company" : "realme"
     },
     {
-        "name" : "iphone 13",
+        "name" : "iphone13",
         "price" : 3400,
-        "feature" : true,
+        "featured" : true,
         "company" : "apple"
     },
     {
         "name" : "computer",
         "price" : 250,
-        "feature" : true,
+        "featured" : false,
         "company" : "hp"
     },
     {
-        "name" : "iphone",
+        "name" : "iphone16Pro",
         "price" : 150,
-        "feature" : true,
-        "company" : "apple"
-    },
-    {
-        "name" : "iphone",
-        "price" : 150,
-        "feature" : true,
-        "company" : "apple"
-    },
-    {
-        "name" : "iphone",
-        "price" : 150,
-        "feature" : true,
-        "company" : "apple"
-    },
-    {
-        "name" : "iphone",
-        "price" : 150,
-        "feature" : true,
+        "featured" : true,
         "company" : "apple"
     },
     {
         "name" : "earbuds",
         "price" : 70,
-        "feature" : true,
+        "featured" : false,
         "company" : "lenovo"
     }
 ]
